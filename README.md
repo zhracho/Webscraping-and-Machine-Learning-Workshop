@@ -1,1 +1,5 @@
 # Webscraping-and-Machine-Learning-Workshop
+As a workshop coordinator for the UF Data Science and Informatics Club, I am responsible for creating curriculum for interested students. Working with other members of the club, this webscraping and machine learning seminar was created. Our goal was to create an interesting, interactive workshop that taught students the fundmanetals of webscraping and machine learning. While the machine learning models used may not be the most accurate, they were strictly used to teach prospective students about the topic.
+
+### What libraries are used?
+BeautifulSoup, along with the requests libraries are used in order to complete the webscraping portion of this workshop. The requests libary allows for the information on the webpage to be passed into an instance of BeautifulSoup, allowing for the data to be scraped. The pandas library is used to store the information gathered by BeautifuSoup into a data frame. Additionally, scikit-learn is used for the machine learning section. 
